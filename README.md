@@ -48,3 +48,15 @@ Total	280
 •	The promotion rules are mutually exclusive, that implies only one promotion (individual SKU or combined) is applicable to a particular SKU. Rest depends on the imagination of the programmer for which scenarios they want to consider, for example (case 1 => 2A = 30 and A=A40%) or (case 2 => either 2A = 30 or A=A40%)
 
 
+# Solution: PromotionEngine
+
+.Net Core 5.0 application, implemented in C#, using Visual Studio 2019.
+
+## Projects
+
+### PromotionEngineSln
+
+This is console application.
+
+
+
